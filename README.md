@@ -42,5 +42,7 @@ where "neat.ico" is the name of the icon you copied to the root of the SD card a
 10. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
 11. run out into your yard for a celebritory dance, just stay off my lawn.
 
+IF you're really lazy, like I am, you can just choose a folder with the color of the icon you want and copy both the icon and the ready-made autorun.inf file to the root of your
+Analogue Pocket SD card and just be ready to go.
 
 Note: The images used for the icons are copyright Analogue. I've just downloaded them from their press documenation and formatted them into pretty little lame ass icons.
