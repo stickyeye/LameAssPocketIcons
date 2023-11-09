@@ -25,7 +25,9 @@ Included in this repository, are the following fancy shmancy colors:
 5. edit the .txt file to say the following:
 
 >[autorun]
+>
 >icon=neat.ico
+>
 >label=neat name
 
 where "neat.ico" is the name of the icon you copied to the root of the SD card and "neat name" is that nasty name you want your PC to display when you plug in the SD card
