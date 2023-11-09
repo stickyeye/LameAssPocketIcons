@@ -39,7 +39,7 @@ where "neat.ico" is the name of the icon you copied to the root of the SD card a
    autorun.inf
 8. ensure that you didn't name the file "autorun.inf.txt"
 9. double check you didn't
-10. safely remove the sd card from the pc, put it in your pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
+10. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
 11. run out into your yard for a celebritory dance, just stay off my lawn.
 
 
