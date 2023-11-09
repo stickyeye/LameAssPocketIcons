@@ -12,7 +12,9 @@ All icons were created for myself to be Windows 10+ compatible and supporting th
 (It's the standard full set of icon sizes. Oh, boushie.)
 
 Included in this repository, are the following fancy shmancy colors:
-![clear](/images/x.png)
+![clear](/images/clear.png) ![smoke](/images/smoke.png) ![green](/images/green.png) ![orange](/images/orange.png)
+![purple](/images/purple.png) ![blue](/images/blue.png) ![red](/images/red.png) ![glow](/images/glow.png)
+![white](/images/white.png) ![black](/images/black.png)
 
 ## To implement an icon:
 1. download the one ya want
