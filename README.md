@@ -1,5 +1,5 @@
 # LameAssPocketIcons
-These are a collection of Analogue Pocket icons you can use for your AP SD card so that it's a little less lame in Windows. This is _currently_ the complete set of icons.
+These are a collection of Analogue Pocket icons you can use for your AP SD card so that it's a little less lame in Windows. This isn't _entirely_ the complete set of icons.
 
 Just click on an icon you want, download it, or download the entire collection of icons if ya want, I don't care. 
 
@@ -17,32 +17,21 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![blue](/images/blue.png) ![red](/images/red.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
 
+![angledBlack](/images/blacka.png) ![angledBlue](/images/bluea.png) ![angledClear](/images/cleara.png) ![angledGlowy](/images/glowya.png) ![angledGreen](/images/greena.png)
+
+![angledIndigo](/images/indigoa.png) ![angledOrange](/images/orangea.png) ![angledPink](/images/pinka.png) ![angledRed](/images/reda.png) ![angledSilver](/images/silvera.png)
+
+![angledSmoke](/images/smokea.png) ![angledTransparentBlue](/images/tbluea.png) ![angledTransparentGreen](/images/tgreena.png) ![angledTransparentOrange](/images/torangea.png) ![angledTransparentPurple](/images/tpurplea.png)
+
+![angledWhite](/images/whitea.png) ![angledYellow](/images/yellowa.png)
+
 ## To implement an icon:
-1. download the one ya want
-2. copy the *.ico file to the root of your Analogue Pocket's SD card
+1. download the folder for the one ya want
+2. copy the two files in the folder to the root of your Analogue Pocket's SD card
 3. touch your nose
-4. create a new .txt file on the root of your Analogue Pocket's SD card
-5. edit the .txt file to say the following:
+4. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
+5. run out into your yard for a celebritory dance, just stay off my lawn.
 
->[autorun]
->
->icon=neat.ico
->
->label=neat name
 
-where "neat.ico" is the name of the icon you copied to the root of the SD card and "neat name" is that nasty name you want your PC to display when you plug in the SD card
-
-**(I've included an example autorun.inf in this repository for you to download and edit if you wish)**
-
-6. save the .txt file and close the text editor.
-7. rename the .txt file to be
-   autorun.inf
-8. ensure that you didn't name the file "autorun.inf.txt"
-9. double check you didn't
-10. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
-11. run out into your yard for a celebritory dance, just stay off my lawn.
-
-IF you're really lazy, like I am, you can just choose a folder with the color of the icon you want and copy both the icon and the ready-made autorun.inf file to the root of your
-Analogue Pocket SD card and be satisfied with how I named your AP SD card.
 
 Note: The images used for the icons are copyright Analogue. I've just downloaded them from their press documenation and formatted them into pretty little lame ass icons.
