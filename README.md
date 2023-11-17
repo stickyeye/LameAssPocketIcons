@@ -1,5 +1,5 @@
 # LameAssPocketIcons
-These are a collection of Analogue Pocket icons you can use for your AP SD card so that it's a little less lame in Windows. This isn't _entirely_ the complete set of icons.
+These are a collection of Analogue Pocket icons you can use for your AP SD card so that it's a little less lame in Windows. This isn't _entirely_ the complete set of icons. (No Dev Pocket icons)
 
 Just click on an icon you want, download it, or download the entire collection of icons if ya want, I don't care. 
 
@@ -16,6 +16,10 @@ Included in this repository, are the following fancy shmancy colors:
 ![clear](/images/clear.png) ![smoke](/images/smoke.png) ![tgreen](/images/tgreen.png) ![torange](/images/torange.png) ![tpurple](/images/tpurple.png)
 
 ![tblue](/images/tblue.png) ![tred](/images/tred.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
+
+![blue](/images/blue.PNG) ![red](/images/red.PNG) ![yellow](/images/yellow.PNG) ![silver](/images/silver.PNG) ![pink](/images/pink.PNG)
+
+![orange](/images/orange.PNG) ![indigo](/images/indigo.PNG) ![green](/images/green.PNG)
 
 ![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
