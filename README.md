@@ -17,9 +17,9 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![tblue](/images/tblue.png) ![tred](/images/tred.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
 
-![blue](/images/blue.PNG) ![red](/images/red.PNG) ![yellow](/images/yellow.PNG) ![silver](/images/silver.PNG) ![pink](/images/pink.PNG)
+![blue](/images/blue.PNG)   ![red](/images/red.PNG)   ![yellow](/images/yellow.PNG)   ![silver](/images/silver.PNG)   ![pink](/images/pink.PNG)
 
-![orange](/images/orange.PNG) ![indigo](/images/indigo.PNG) ![green](/images/green.PNG)
+![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)
 
 ![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
