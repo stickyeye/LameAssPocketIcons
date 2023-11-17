@@ -13,9 +13,9 @@ All icons were created for myself to be Windows 10+ compatible and supporting th
 
 Included in this repository, are the following fancy shmancy colors:
 
-![clear](/images/clear.png) ![smoke](/images/smoke.png) ![green](/images/green.png) ![orange](/images/orange.png) ![purple](/images/purple.png)
+![clear](/images/clear.png) ![smoke](/images/smoke.png) ![tgreen](/images/tgreen.png) ![torange](/images/torange.png) ![tpurple](/images/tpurple.png)
 
-![blue](/images/blue.png) ![red](/images/red.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
+![tblue](/images/tblue.png) ![tred](/images/tred.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
 
 ![angledBlack](/images/blacka.png) ![angledBlue](/images/bluea.png) ![angledClear](/images/cleara.png) ![angledGlowy](/images/glowya.png) ![angledGreen](/images/greena.png)
 
