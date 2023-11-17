@@ -17,13 +17,13 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![tblue](/images/tblue.png) ![tred](/images/tred.png) ![glow](/images/glow.png) ![white](/images/white.png) ![black](/images/black.png)
 
-![angledBlack](/images/blacka.png) ![angledBlue](/images/bluea.png) ![angledClear](/images/cleara.png) ![angledGlowy](/images/glowya.png) ![angledGreen](/images/greena.png)
+![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
-![angledIndigo](/images/indigoa.png) ![angledOrange](/images/orangea.png) ![angledPink](/images/pinka.png) ![angledRed](/images/reda.png) ![angledSilver](/images/silvera.png)
+![angledIndigo](/images/indigoa.PNG) ![angledOrange](/images/orangea.PNG) ![angledPink](/images/pinka.PNG) ![angledRed](/images/reda.PNG) ![angledSilver](/images/silvera.PNG)
 
-![angledSmoke](/images/smokea.png) ![angledTransparentBlue](/images/tbluea.png) ![angledTransparentGreen](/images/tgreena.png) ![angledTransparentOrange](/images/torangea.png) ![angledTransparentPurple](/images/tpurplea.png)
+![angledSmoke](/images/smokea.PNG) ![angledTransparentBlue](/images/tbluea.PNG) ![angledTransparentGreen](/images/tgreena.PNG) ![angledTransparentOrange](/images/torangea.PNG) ![angledTransparentPurple](/images/tpurplea.PNG)
 
-![angledWhite](/images/whitea.png) ![angledYellow](/images/yellowa.png)
+![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)
 
 ## To implement an icon:
 1. download the folder for the one ya want
