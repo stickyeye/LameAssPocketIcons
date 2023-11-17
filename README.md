@@ -30,8 +30,8 @@ Included in this repository, are the following fancy shmancy colors:
 ![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)
 
 ## To implement an icon:
-1. download the folder for the one ya want
-2. copy the two files in the folder to the root of your Analogue Pocket's SD card
+1. download the .ico and .inf for the one ya want
+2. copy the two files into the root of your Analogue Pocket's SD card
 3. touch your nose
 4. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
 5. run out into your yard for a celebritory dance, just stay off my lawn.
