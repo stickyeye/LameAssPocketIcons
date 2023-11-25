@@ -36,6 +36,6 @@ Included in this repository, are the following fancy shmancy colors:
 4. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
 5. run out into your yard for a celebritory dance, just stay off my lawn.
 
-
+To do: Rename all the icons and folders and sample images to use the same names for the matching colors. (standards? I never thought it'd come to this) Wink while calling my neighbor "poopsie."
 
 Note: The images used for the icons are copyright Analogue. I've just downloaded them from their press documenation and formatted them into pretty little lame ass icons.
