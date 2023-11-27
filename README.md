@@ -10,6 +10,7 @@ All icons were created for myself to be Windows 10+ compatible and supporting th
 256x256
 
 (It's the standard full set of icon sizes. Oh, boushie.)
+--- New MacOS icons are inbound. If you try one, let me know if it's borked. ---
 
 Included in this repository, are the following fancy shmancy colors:
 
@@ -29,7 +30,7 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)
 
-## To implement an icon:
+## To implement an icon in Windows:
 1. download the .ico and .inf for the one ya want
 2. copy the two files into the root of your Analogue Pocket's SD card
 3. touch your nose
