@@ -20,7 +20,7 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![blue](/images/blue.PNG)   ![red](/images/red.PNG)   ![yellow](/images/yellow.PNG)   ![silver](/images/silver.PNG)   ![pink](/images/pink.PNG)
 
-![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)
+![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)   ![dev] (/images/DevPreview.PNG)
 
 ![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
@@ -28,7 +28,7 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![angledSmoke](/images/smokea.PNG) ![angledTransparentBlue](/images/tbluea.PNG) ![angledTransparentGreen](/images/tgreena.PNG) ![angledTransparentOrange](/images/torangea.PNG) ![angledTransparentPurple](/images/tpurplea.PNG)
 
-![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)
+![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)   ![angledDev](/images/devapreview.png)
 
 ## To implement an icon in Windows:
 1. download the .ico and .inf for the one ya want
