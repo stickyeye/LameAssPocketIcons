@@ -20,7 +20,7 @@ Included in this repository, are the following fancy shmancy colors:
 
 ![blue](/images/blue.PNG)   ![red](/images/red.PNG)   ![yellow](/images/yellow.PNG)   ![silver](/images/silver.PNG)   ![pink](/images/pink.PNG)
 
-![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)   ![dev] (/images/DevPreview.PNG)
+![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)   ![dev](/images/DevPreview.PNG)
 
 ![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
