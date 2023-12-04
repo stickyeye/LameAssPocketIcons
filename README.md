@@ -23,13 +23,13 @@ Included in this repository, are the following fancy shmancy colors:
 
 There are angled versions, too! FANCY!
 
-![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
+![angledClear](/images/cleara.PNG) ![angledSmoke](/images/smokea.PNG) ![angledTransparentGreen](/images/tgreena.PNG) ![angledTransparentOrange](/images/torangea.PNG) ![angledTransparentPurple](/images/tpurplea.PNG)
 
-![angledIndigo](/images/indigoa.PNG) ![angledOrange](/images/orangea.PNG) ![angledPink](/images/pinka.PNG) ![angledRed](/images/reda.PNG) ![angledSilver](/images/silvera.PNG)
+![angledTransparentBlue](/images/tbluea.PNG) ![angledTransparentRed](/images/treda.PNG) ![angledGlowy](/images/glowya.PNG) ![angledWhite](/images/whitea.PNG) ![angledBlack](/images/blacka.PNG) 
 
-![angledSmoke](/images/smokea.PNG) ![angledTransparentBlue](/images/tbluea.PNG) ![angledTransparentGreen](/images/tgreena.PNG) ![angledTransparentOrange](/images/torangea.PNG) ![angledTransparentPurple](/images/tpurplea.PNG)
+![angledBlue](/images/bluea.PNG) ![angledRed](/images/reda.PNG) ![angledYellow](/images/yellowa.PNG) ![angledSilver](/images/silvera.PNG) ![angledPink](/images/pinka.PNG) 
 
-![angledWhite](/images/whitea.PNG) ![angledYellow](/images/yellowa.PNG)   ![angledDev](/images/devapreview.png)
+![angledOrange](/images/orangea.PNG) ![angledIndigo](/images/indigoa.PNG) ![angledGreen](/images/greena.PNG) ![angledDev](/images/devapreview.png)
 
 ## To implement an icon in Windows:
 1. download the .ico and .inf for the one ya want
