@@ -10,7 +10,6 @@ All icons were created for myself to be Windows 10+ compatible and supporting th
 256x256
 
 (It's the standard full set of icon sizes. Oh, boushie.)
---- New MacOS icons are inbound. If you try one, let me know if it's borked. ---
 
 Included in this repository, are the following fancy shmancy colors:
 
@@ -21,6 +20,8 @@ Included in this repository, are the following fancy shmancy colors:
 ![blue](/images/blue.PNG)   ![red](/images/red.PNG)   ![yellow](/images/yellow.PNG)   ![silver](/images/silver.PNG)   ![pink](/images/pink.PNG)
 
 ![orange](/images/orange.PNG)   ![indigo](/images/indigo.PNG)   ![green](/images/green.PNG)   ![dev](/images/DevPreview.PNG)
+
+There are angled versions, too! FANCY!
 
 ![angledBlack](/images/blacka.PNG) ![angledBlue](/images/bluea.PNG) ![angledClear](/images/cleara.PNG) ![angledGlowy](/images/glowya.PNG) ![angledGreen](/images/greena.PNG)
 
@@ -37,6 +38,9 @@ Included in this repository, are the following fancy shmancy colors:
 4. safely remove the sd card from the pc, put it in your Analogue Pocket or back into the pc, hum a little tune, stop touching your nose, and then see that the magic happened!
 5. run out into your yard for a celebritory dance, just stay off my lawn.
 
-To do: Rename all the icons and folders and sample images to use the same names for the matching colors. (standards? I never thought it'd come to this) Wink while calling my neighbor "poopsie."
+To do: 	Rename all the icons and folders and sample images to use the same names for the matching colors. (standards? I never thought it'd come to this) Wink while calling my neighbor "poopsie."
+		Add MacOS icons for all the wonderful permutations.
+		Make this prettier.
+		Steal... erm... add instructions for utilizing the icons for MacOS.
 
 Note: The images used for the icons are copyright Analogue. I've just downloaded them from their press documenation and formatted them into pretty little lame ass icons.
